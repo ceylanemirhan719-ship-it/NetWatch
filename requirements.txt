@@ -1,0 +1,3 @@
+customtkinter
+speedtest-cli
+matplotlib
